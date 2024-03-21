@@ -1,2 +1,21 @@
 # AceTheTechInterview
-Boost your interview confidence with AceTheTechInterview: A compact guide to acing tech interviews with tips, exercises, and insights on logic, algorithms, Python, Node.js, React, and databases. Prep, practice, and land your tech dream job!
+
+Welcome to `AceTheTechInterview`, your go-to resource for mastering the nuances of technical interviews. Whether you're aiming for your first tech role or a seasoned developer seeking advancement, this repository offers tailored advice to help you navigate through coding challenges, system design questions, logic, algorithms, and more.
+
+## Inside You'll Find:
+
+- **Preparation Tips**: How to effectively prepare for your interview.
+- **Technical Guides**: Insights into Python, Node.js, React, databases, logic, and algorithms.
+- **Practice Exercises**: Sharpen your coding skills with real-world problems.
+- **Interview Strategies**: Tackle technical and behavioral questions with confidence.
+
+## Contributing
+
+Got a tip or resource to share? Contributions are welcome! Feel free to fork the repo, add your insights, and submit a pull request.
+
+## Connect With Me
+
+- [GitHub](https://github.com/aepereiro)
+- [LinkedIn](https://www.linkedin.com/in/antonio-pereiro)
+
+Dive in and start preparing for your tech interviews today. Your journey to landing that dream tech job starts here!
