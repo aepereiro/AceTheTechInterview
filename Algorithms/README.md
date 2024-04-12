@@ -12,15 +12,17 @@ The repository is structured with a separate subfolder for each interview proble
 - A README.md file that explains the solution's logic, its time and space complexity, and possibly variations or alternative solutions.
 
 Example structure:
+```plaintext
 /interview_problems
-/problem1
-- README.md
-- solution.py
-- solution.js
-/problem2
-- README.md
-- solution.java
-- solution.py
+    /problem1
+        README.md
+        solution.py
+        solution.js
+    /problem2
+        README.md
+        solution.java
+        solution.py
+```
 
 ## How to Navigate
 

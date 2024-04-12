@@ -5,8 +5,8 @@ Welcome to `AceTheTechInterview`, your go-to resource for mastering the nuances 
 ## Inside You'll Find:
 
 - **Preparation Tips**: How to effectively prepare for your interview.
-- **Technical Guides**: Insights into Python, Node.js, React, databases, logic, and algorithms.
-- **Practice Exercises**: Sharpen your coding skills with real-world problems.
+- [**Technical Guides**](/Guides/README.md): Insights into Python, Node.js, React, databases, logic, and algorithms.
+- [**Practice Exercises**](/Algorithms/README.md): Sharpen your coding skills with real-world problems.
 - **Interview Strategies**: Tackle technical and behavioral questions with confidence.
 
 ## Contributing
